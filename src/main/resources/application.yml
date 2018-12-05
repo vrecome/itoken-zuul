@@ -3,5 +3,5 @@ spring:
     config:
       label: master
       name: itoken-zuul
-      uri: http://localhost:8888
+      uri: http://192.168.74.128:8888
       profile: dev
